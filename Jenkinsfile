@@ -3,9 +3,9 @@ pipeline{
   stages{
    stage('build'){
       agent any
-      options{
-         skipDefaultCheckout()
-         }
+      //options{
+         //skipDefaultCheckout()
+         //}
        steps{
          echo "hello world be safe.health"
          }
