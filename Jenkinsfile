@@ -10,7 +10,7 @@ pipeline{
         //skipDefaultCheckout()
          //}
        steps{
-         echo "hello world hi all"
+         echo "hello world i can"
          }
         }
        }
