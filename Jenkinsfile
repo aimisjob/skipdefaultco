@@ -4,7 +4,7 @@ pipeline{
    stage('build'){
       agent any
       options{
-         skipDefaultCheckoUT()
+         skipDefaultCheckout()
          }
        steps{
          echo "hello world be safe"
