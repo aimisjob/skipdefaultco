@@ -10,7 +10,7 @@ pipeline{
         skipDefaultCheckout()
          }
        steps{
-         echo "hello world be safe.health"
+         echo "hello world hi all"
          }
         }
        }
