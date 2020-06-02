@@ -3,11 +3,11 @@ pipeline{
   stages{
    stage('build'){
       agent any
-      /*options{
+      options{
          skipDefaultCheckOUT()
-         }*/
+         }
        steps{
-         echo "hello world"
+         echo "hello world be safe"
          }
         }
        }
