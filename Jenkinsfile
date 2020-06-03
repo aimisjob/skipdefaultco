@@ -5,12 +5,12 @@ pipeline{
   }
   stages{
    stage('build'){
-      agent any
-      options{
-        skipDefaultCheckout()
-         }
+      //agent any
+      //options{
+        //skipDefaultCheckout()
+         //}
        steps{
-         echo "thank god for reading time"
+         echo "thank god for reading time.utilise it"
          }
         }
        }
