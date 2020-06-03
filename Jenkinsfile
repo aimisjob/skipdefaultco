@@ -1,11 +1,11 @@
 pipeline{
   agent any
-  options{
-    skipDefaultCheckout()
-  }
+  //options{
+    //skipDefaultCheckout()
+  //}
   stages{
    stage('build'){
-      agent any
+      //agent any
       options{
         skipDefaultCheckout()
          }
