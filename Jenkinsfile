@@ -10,7 +10,7 @@ pipeline{
         skipDefaultCheckout()
          }
        steps{
-         echo "thank god for reading time.utilise it"
+         echo "thank god for reading time."
          }
         }
        }
