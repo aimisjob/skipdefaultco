@@ -8,7 +8,7 @@ pipeline{
        skipDefaultCheckout()
         }
        steps{
-         echo "thank god for reading time."
+         echo "thankyou god for reading time."
          }
         }
        }
