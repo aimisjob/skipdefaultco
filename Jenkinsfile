@@ -8,7 +8,7 @@ pipeline{
       
  
        steps{
-         echo "thankyou god for reading time."
+         echo "thankyou god for reading time.i want to utilise time efficiently"
          }
         }
        }
